@@ -1,0 +1,38 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Product Page Styles */
+  .product-page {
+    padding: 20px;
+  }
+  
+  .product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  /* Blog Page Styles */
+  .blog-page {
+    padding: 20px;
+  }
+  
+  .blog-post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  /* Profile Page Styles */
+  .profile-page {
+    padding: 20px;
+  }
+  
+  .profile {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
